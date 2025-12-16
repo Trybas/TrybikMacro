@@ -1,4 +1,9 @@
 # Macro-Trybika-i-Susiego
 Zwykłe macro do minecrafta.
 
-nie mam co do napisanie w README lol
+# INFO
+Pod F5 włączasz
+Ustawiasz gdzie masz kilof
+I lecisz
+
+Pozdro
